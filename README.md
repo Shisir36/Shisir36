@@ -1,33 +1,39 @@
-![Web Developer ](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/256458752_626712111695409_6832756108945064011_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE4ogQGxdQpDQb8JTaxePpbrci5H3a8z76tyLkfdrzPvhMfPTwKjd5dUICAQbNkrIXzudq1-j6xONe982sQnJrt&_nc_ohc=ETrr5dY6xr4AX91Mijn&_nc_oc=AQmMhJWzFizEQzPIieVZ8nadw8Q6piyYE3ykMiCcj0in_vtLcSEMlpuHWxSPAIi50Us&_nc_ht=scontent.fdac24-3.fna&oh=00_AfAQ65wF9voHDDgy0RrNqwVLxzCOoRbaC2EtUoFqqflHQw&oe=649B84C7)
+[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Al Mamun</h1>
+<h3 align="center">A passionate frontend developer from Bandladesh</h3>
+<img align="right" alt="Coding" width="400" src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> 
 
-### Hi there 👋, i'm Al Mamun 
-#### Web Developer 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shisir36&label=Profile%20views&color=0e75b6&style=flat" alt="shisir36" /> </p>
 
-"Hello, I'm Al Mamun Shisir! I'm a Software Engineering student and Junior MERN Stack Developer. Passionate about creating robust web applications using MongoDB, Express.js, React.js, and Node.js. Constant learner, always exploring cutting-edge technologies. Enthusiastic about collaborative coding, problem-solving, and contributing to open-source projects. Let's connect and build remarkable software together!"
+<p align="left"> <a href="https://twitter.com/shisir360" target="blank"><img src="https://img.shields.io/twitter/follow/shisir360?logo=twitter&style=for-the-badge" alt="shisir360" /></a> </p>
 
-Skills: REACT / JS / HTML / CSS / TAILWIND / BOOTSTRAP / MONGODB / FIREBASE
+- 🔭 I’m currently working on [Snap School](https://snap-school-9a91b.web.app/)
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Next Js 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 🌱 I’m currently learning **Next JS**
 
+- 🤝 I’m looking for help with **Web Develepment**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shisir36)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/al-mamun-shisir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/almamun.shisir.58)  
+- 💬 Ask me about **MERN**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **almamunshsir770@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shisir36)](https://github.com/ryo-ma/github-profile-trophy)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GSUbcUsrXNJA68uNfs9oIS1fNKMSqVwO/view?usp=drive_link](https://drive.google.com/file/d/1GSUbcUsrXNJA68uNfs9oIS1fNKMSqVwO/view?usp=drive_link)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shisir36)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact **I am so funny**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shisir36&show_icons=true&count_private=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shisir360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shisir360" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/al-mamun-shisir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-mamun-shisir" height="30" width="40" /></a>
+<a href="https://fb.com/almamun.shisir.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="almamun.shisir.58" height="30" width="40" /></a>
+<a href="https://instagram.com/shisir360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shisir360" height="30" width="40" /></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shisir36)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/Shisir36)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shisir36&show_icons=true&locale=en&layout=compact" alt="shisir36" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Shisir36)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shisir36&show_icons=true&locale=en" alt="shisir36" /></p>
 
-![Profile views](https://gpvc.arturio.dev/Shisir36)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shisir36&" alt="shisir36" /></p>
